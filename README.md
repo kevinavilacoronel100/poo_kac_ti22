@@ -8,3 +8,4 @@
 |2|programa1.py|Comentarios multilinea,una linea,concatenacion de dos variables.|
 |3|programa2.py|formatear y identificar errores de llave,syntaxis error.|
 |4|programa3.py|Formatear variables y operaciones.|
+|5|programa4.py|Preguntar un numero y lo combierte de str a int.|
