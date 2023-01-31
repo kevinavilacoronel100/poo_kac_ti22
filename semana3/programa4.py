@@ -2,7 +2,7 @@
     Programa4
     Nombre:Kevin Avila Coronel
     Fecha:30/01/2023
-    Descripcion:pregunta un numero y lo combierte de str a int
+    Descripcion:pregunta un numero y lo combierte de str a int.
 """
 numero1= int(input("Numero 1: ")) # pregunta un numero
 numero2= input("Numero2: ")# variable entera
