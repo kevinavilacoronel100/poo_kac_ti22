@@ -11,3 +11,4 @@
 |5|programa4.py|Preguntar un numero y lo combierte de str a int.|
 |6|programa5.py|Area y Perimetro del Triangulo.|
 |7|programa6.py|Area y perimetro del circulo y el cuadrado.|
+|8|programa7.py|Comparar numero enteros y buscar el numero mayor.|
